@@ -1,1 +1,4 @@
-# STM32H750b-DK External Loader (Single Bank QSPI)
+# STM32H750 External QSPI Flash Loader (Single Bank QSPI, Compatible with STM32H750B-DK)
+
+
+https://www.youtube.com/playlist?list=PLnMKNibPkDnHIrq5BICcFhLsmJFI_ytvE

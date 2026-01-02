@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>stm32h750b-dk-external-loader</name>
+	<name>stm32h750-external-qspi-flash-loader</name>
 	<comment></comment>
 	<projects>
 	</projects>

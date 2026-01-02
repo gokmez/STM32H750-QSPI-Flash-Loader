@@ -535,7 +535,7 @@ CSP_QSPI_EnableMemoryMappedMode(void) {
     sCommand.NbData = 0;
     sCommand.Address = 0;
     sCommand.Instruction = QUAD_OUT_FAST_READ_CMD;
-    sCommand.DummyCycles = DUMMY_CLOCK_CYCLES_READ_QUAD;
+    sCommand.DummyCycles = DUMMY_CLOCK_CYCLES_READ_QUAD-2;
 
     sMemMappedCfg.TimeOutActivation = QSPI_TIMEOUT_COUNTER_DISABLE;
 
